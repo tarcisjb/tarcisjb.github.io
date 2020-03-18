@@ -1,5 +1,5 @@
 //const urlAgenda = "http://localhost:8080/psicologia/agendas";
-const urlAgenda = "https://943695a5.ngrok.io/psicologia/agendas";
+const urlAgenda = "https://b3ba9a01.ngrok.io/psicologia/agendas";
 
 class AgendaDto {
     constructor(nome, descricao) {
